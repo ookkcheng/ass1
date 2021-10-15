@@ -1,0 +1,120 @@
+<METRICS profile="Assignment1" timestamp="ÖÜÈý, 13 10ÔÂ 2021 21:58:31 CST">
+	<METRIC category="Method" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="Testfile.testOpen()" value="13.0"/>
+		<VALUE measured="Testfile.testSave()" value="10.0"/>
+		<VALUE measured="Testfile.testSearch()" value="13.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.about(ActionEvent)" value="8.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.copy(ActionEvent)" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.cut(ActionEvent)" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.exit(ActionEvent)" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.initialize(URL,ResourceBundle)" value="12.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.new_(ActionEvent)" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.open(ActionEvent)" value="21.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.paste(ActionEvent)" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.print(ActionEvent)" value="33.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.save(ActionEvent)" value="17.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.search(ActionEvent)" value="6.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.select(ActionEvent)" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.toPDF(ActionEvent)" value="85.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find.find(CodeArea)" value="52.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main.main(String[])" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main.start(Stage)" value="9.0"/>
+		<VALUE measured="com.example.assigenment1pro.java.java1(File,CodeArea)" value="8.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.DefaultContextMenu()" value="10.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.fold()" value="6.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.print()" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.unfold()" value="7.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler.VisibleParagraphStyler(GenericStyledArea&lt;PS, SEG, S&gt;,Function&lt;String, StyleSpans&lt;S&gt;&gt;)" value="5.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler.accept(ListModification&lt;? extends Paragraph&lt;PS, SEG, S&gt;&gt;)" value="16.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.computeHighlighting(String)" value="22.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.start(CodeArea)" value="39.0"/>
+		<VALUE measured="com.example.assigenment1pro.open.getTextFromRtf(File)" value="16.0"/>
+		<VALUE measured="com.example.assigenment1pro.open.openfile(ActionEvent)" value="8.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Cyclomatic complexity" abbreviation="v(G)">
+		<VALUE measured="Testfile.testOpen()" value="1.0"/>
+		<VALUE measured="Testfile.testSave()" value="1.0"/>
+		<VALUE measured="Testfile.testSearch()" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.about(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.copy(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.cut(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.exit(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.initialize(URL,ResourceBundle)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.new_(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.open(ActionEvent)" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.paste(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.print(ActionEvent)" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.save(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.search(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.select(ActionEvent)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller.toPDF(ActionEvent)" value="9.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find.find(CodeArea)" value="8.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main.main(String[])" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main.start(Stage)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.java.java1(File,CodeArea)" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.DefaultContextMenu()" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.fold()" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.print()" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu.unfold()" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler.VisibleParagraphStyler(GenericStyledArea&lt;PS, SEG, S&gt;,Function&lt;String, StyleSpans&lt;S&gt;&gt;)" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler.accept(ListModification&lt;? extends Paragraph&lt;PS, SEG, S&gt;&gt;)" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.computeHighlighting(String)" value="9.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.start(CodeArea)" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.open.getTextFromRtf(File)" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.open.openfile(ActionEvent)" value="1.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Coupling between objects" abbreviation="CBO">
+		<VALUE measured="Testfile" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="2.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="Testfile" value="38.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="211.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="56.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="14.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="10.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="92.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="30.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="27.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="26.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Efferent couplings" abbreviation="Ce">
+		<VALUE measured="" value="6.0"/>
+		<VALUE measured="com.example.assigenment1pro" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="" value="273.0"/>
+		<VALUE measured="com.example.assigenment1pro" value="663.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Number of methods" abbreviation="METH">
+		<VALUE measured="" value="5.0"/>
+		<VALUE measured="com.example.assigenment1pro" value="27.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="Assigenment1pro" value="1263.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of methods" abbreviation="METH">
+		<VALUE measured="Assigenment1pro" value="32.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="CSS" value="28.0"/>
+		<VALUE measured="Java" value="637.0"/>
+		<VALUE measured="Markdown" value="40.0"/>
+		<VALUE measured="Text" value="212.0"/>
+		<VALUE measured="XML" value="344.0"/>
+		<VALUE measured="YAML" value="2.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="project" value="1263.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of methods" abbreviation="METH">
+		<VALUE measured="project" value="30.0"/>
+	</METRIC>
+</METRICS>
